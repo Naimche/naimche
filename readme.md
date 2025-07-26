@@ -25,7 +25,6 @@ const naim = {
   frameworks: ["Spring Boot", "React", "Next.js", "Jetpack Compose"],
   databases: ["MySQL", "Oracle", "Postgres"],
   herramientas: ["Git", "AWS", "Docker", "Jira"],
-
 };
 ```
 
