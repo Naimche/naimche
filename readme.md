@@ -1,4 +1,7 @@
-# ¡Hola! 👋 Soy Naim Cheddi Elkhattabi
+<div align="center">
+<h1>Naim Cheddi Elkhattabi
+</h1>
+</div>
 
 <div align="center">
   
@@ -77,15 +80,11 @@ const naim = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimche&theme=tokyonight" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimche&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
   
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimche&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
