@@ -80,7 +80,6 @@ const naim = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimche&theme=tokyonight" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimche&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
