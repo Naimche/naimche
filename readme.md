@@ -15,19 +15,6 @@
 
 Soy un **Desarrollador Full Stack** con experiencia en **Java, Springboot, React, Nextjs...** Con base en **Barcelona**, me especializo en desarrollar aplicaciones que combinan funcionalidad, seguridad y diseño elegante.
 
-
-
-```javascript
-const naim = {
-  ubicacion: "Barcelona, España 🇪🇸",
-  rol: "Full Stack Developer",
-  lenguajes: ["Java", "JavaScript", "Python", "TypeScript"],
-  frameworks: ["Spring Boot", "React", "Next.js", "Jetpack Compose"],
-  databases: ["MySQL", "Oracle", "Postgres"],
-  herramientas: ["Git", "AWS", "Docker", "Jira"],
-};
-```
-
 ## 🛠️ Stack Tecnológico
 
 <div align="start">
